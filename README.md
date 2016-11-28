@@ -1,4 +1,4 @@
-# HitTheRoad
+![Hit the Road](http://tricky1975.github.io/HitTheRoad/Logo.png)
 
 Hit The Road will be a game written for the LOVE2D engine.
 This is a future project for which only a few preparational files may appear in this repository.
